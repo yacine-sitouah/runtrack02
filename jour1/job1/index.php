@@ -38,7 +38,7 @@
     <hr/> 
 
    <div>
-
+    
         <?php
 
             $bool = true;
